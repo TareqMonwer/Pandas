@@ -1,4 +1,4 @@
-# Data Management / Manipulation with Pandas 
+# Data Analysis with Python 
 
 ## Datasets
 
@@ -12,3 +12,13 @@ Filename | Description | Raw File | Original Source | Other
 [titanic_train.csv](data/titanic_train.csv) | Training set from Kaggle's Titanic competition | [bit.ly/kaggletrain](http://bit.ly/kaggletrain) | [Kaggle](https://www.kaggle.com/c/titanic) | [Data dictionary](https://www.kaggle.com/c/titanic/data)
 [u.user](data/u.user) | Demographic information about MovieLens users | [bit.ly/movieusers](http://bit.ly/movieusers) | [GroupLens](http://grouplens.org/datasets/movielens/100k/) | [Data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt)
 [ufo.csv](data/ufo.csv) | Reports of UFO sightings from 1930-2000 | [bit.ly/uforeports](http://bit.ly/uforeports) | [National UFO Reporting Center](http://www.nuforc.org/webreports.html) | [Web scraping script](https://github.com/josiahdavis/josiahdavis.github.io/blob/master/supporting%20material/get_ufo_data.py)
+
+
+## Resources 
+- https://www.dataschool.io/
+- https://pandas.pydata.org/docs/
+
+<h3>About the Author</h3>
+This repo was created by <a href="https://www.linkedin.com/in/jubayer28/" target="_blank">Jubayer Hossain</a> <br>
+<a href="https://www.linkedin.com/in/jubayer28/" target="_blank">Jubayer Hossain</a> is a student of Microbiology at Jagannath University and the founder of <a href="https://github.com/hdro" target="_blank">Health Data Research Organization</a>. He is also a team member of a bioinformatics research group known as Bio-Bio-1. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.mm
